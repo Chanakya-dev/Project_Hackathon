@@ -39,9 +39,7 @@ Develop a full-stack web application that allows users to upload files, store th
 - Optimize storage by choosing between storing files as BLOBs or using file paths.
 
 ## Non-Functional Requirements
-- **Security**: Implement authentication and access control.
 - **Performance**: Optimize API and database queries.
-- **Scalability**: Design the system to handle multiple users and large files efficiently.
 - **Error Handling**: Provide meaningful error messages and validations.
 
 ## Development Plan
@@ -60,17 +58,12 @@ Develop a full-stack web application that allows users to upload files, store th
    - Connect React with FastAPI endpoints.
    - Handle file uploads and downloads properly.
    
-5. **Testing and Deployment**
-   - Perform unit and integration testing.
-   - Deploy using cloud services (AWS, Heroku, etc.).
+5. **Testing **
+   - Perform PyTesting.
 
 ## Assessment Criteria
 - **Correctness**: Functional APIs and UI.
 - **Code Quality**: Clean and maintainable code.
-- **Security**: Secure file handling.
 - **Performance**: Optimized queries and efficient file storage.
-- **Documentation**: Clear API and database documentation.
 
-## Conclusion
-This project will help in understanding full-stack development with **React, FastAPI, and MySQL** while implementing file upload and storage functionalities securely and efficiently.
 
