@@ -9,12 +9,10 @@
    - **Score system**: Rate resumes (e.g., 1-100 match score)
    - **Keyword extraction**: Highlight important keywords from job description
    - **ATS optimization**: Check for applicant tracking system compatibility
-   - **Comparative analysis**: Compare multiple resumes for same position
 
 ### 3. **File Management**
    - **Multiple file formats**: Support DOCX, TXT, etc. (using `python-docx`)
    - **Batch processing**: Analyze multiple resumes at once
-   - **Cloud storage**: Integrate with S3/Google Drive for file storage
 
 ### 4. **Job Market Integration**
    - **Job search API**: Connect to LinkedIn/Indeed APIs
